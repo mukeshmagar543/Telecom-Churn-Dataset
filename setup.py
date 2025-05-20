@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "1.0.0"
 
-REPO_NAME = "Loan_Approval_Prediction_Model"
+REPO_NAME = "Telecom-Churn-Dataset"
 
 AUTHOR_USER_NAME = "mukeshmagar543"
 SRC_REPO = "Telecom-Churn-Dataset"
