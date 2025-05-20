@@ -24,4 +24,4 @@ y_pred = model.predict(X_test)
 # Evaluate
 accuracy, cm = Evaluator.evaluate(y_test, y_pred)
 print(f"Accuracy: {accuracy:.4f}")
-print("Confusion Matrix:\n", cm)
+# print("Confusion Matrix:\n", cm)
